@@ -6,3 +6,4 @@ let tab={"salam":20,"sousou":256};
 console.log("zumzul");
 let p1=document.querySelector("p");
 p1.innerText="added by java hey!!";
+console.log("d lwaqt n yidhes");

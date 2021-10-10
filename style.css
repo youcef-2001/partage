@@ -1,3 +1,5 @@
 p{color:red;
 background-color: orange;}
-div{background-color: blue;}
+div{background-color: blue;
+padding: 100px;
+border:solid 5px yellow;}
